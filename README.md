@@ -9,7 +9,7 @@ There are: 1. scripts to generate salmon index (salmon_index.sh) and tp perform 
 
 # Single cell RNA sequencing
 The aggreated single cell RNA sequencing Seurat object can be found at:
-https://drive.google.com/file/d/17Hfe5sxK5TPXT9HWg3iLpmE1xJraMYs7/view?usp=drive_link
+https://drive.google.com/file/d/1_fxYQlQeV_gXRsvVq9YTDhQkPtbUvWuV/view?usp=drive_link
 
 The scripts used to analyzed the data and generate the figures can be found at:
 https://drive.google.com/drive/folders/1Qr-px4fJ48p2eh9xx63AKAYJuP_k2jLc
