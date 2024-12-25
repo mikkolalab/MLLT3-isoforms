@@ -10,7 +10,7 @@ There are: 1. scripts to generate salmon index (salmon_index.sh) and to perform 
 The aggreated single cell RNA sequencing Seurat object can be found at the sub-directory "Single-cell RNA sequencing/Seurat object":
 https://ucla.box.com/s/6cm7wo6upxy4qlsocs54odw6bw7fuy1s
 
-The scripts used to analyzed the data and generate the figures can be found at the sub-directory "Single-cell RNA sequencing/Seurat object":
+The scripts used to analyzed the data and generate the figures can be found at the sub-directory "Single-cell RNA sequencing/scripts":
 https://ucla.box.com/s/9f9fcnlz5ocplakntm5euojo5f47otvq
 
 # PacBio Iso-seq
@@ -22,4 +22,4 @@ There are: 1. raw iso-seq data of one cord blood sample and one fetal liver samp
 Scripts and processed data related with open reading frame could be found at "PacBio Iso-seq/Open_reading_frame_prediction": https://ucla.box.com/s/p0bpykd2jn48lgonuk0dk1bo9bbelccu
 There are: 1. Scripts to find open reading frames (subset.sh and find_ORFs.cds.py); 2. Open reading frame predictions with different cutoffs and gene assemblies (custom_gtfs).
 
-Scripts related transcript structure and abundance visulization could be found at "PacBio Iso-seq/Transcripts_plot": : https://ucla.box.com/s/p0bpykd2jn48lgonuk0dk1bo9bbelccu
+Scripts related transcript structure and abundance visulization could be found at "PacBio Iso-seq/Transcripts_plot": : https://ucla.box.com/s/3bhifp2avp8mwqt93hyxfojiv57ps1ln
